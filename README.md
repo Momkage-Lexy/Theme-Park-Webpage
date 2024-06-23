@@ -1,2 +1,2 @@
-# Theme-Park-Webpage
-Mock Webpage for a Theme Park
+echo "## W24-CS-366
+# HW1
