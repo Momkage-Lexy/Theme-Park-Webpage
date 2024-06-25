@@ -1,2 +1,6 @@
-echo "## W24-CS-366
-# HW1
+Lexy Ramos
+=========
+Theme Park Web Page
+---------
+This project utilizes HTML(with Bootstrap) and CSS to create
+a webpage for a theme park.
